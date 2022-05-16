@@ -37,3 +37,11 @@ body {
 .main img {
     border-radius: 10%;
 }
+@media (max-width:700px) {
+    body {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+}
