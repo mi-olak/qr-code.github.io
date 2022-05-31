@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ https://www.frontendmentor.io/solutions/qrcodecomponent-bAF6rIwim7 ]
+- Live Site URL:[ https://mi-olak.github.io/qrcode/ ]
 
 ## My process
 
@@ -48,9 +48,9 @@ i have more work to do on flex but, nonetheless, I'm still very much excited to 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+
 - Frontend Mentor -[@mi-olak] (https://www.frontendmentor.io/profile/mi-olak)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
 
 
 
